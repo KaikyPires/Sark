@@ -2,6 +2,7 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
 export default defineConfig({
+   base: '/Sark/',
   plugins: [react()],
   optimizeDeps: {
     exclude: ['lucide-react'],
@@ -12,5 +13,5 @@ export default defineConfig({
       '/api': 'http://localhost:8080', // Redireciona as chamadas para o back-end
     },
   },
-  base: '/Projeto_Sark/'
+ 
 });
