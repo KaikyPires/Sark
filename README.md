@@ -6,6 +6,8 @@ A **Sark** é uma loja de roupas online desenvolvida para oferecer uma experiên
 
 O projeto foi desenvolvido utilizando **React** no front-end e **Java Spring Boot** no back-end, garantindo uma aplicação robusta, escalável e de alto desempenho.
 
+*Este projeto foi desenvolvido utilizando React e está hospedado no GitHub Pages. Para isso, foi usado o comando npm run build, que gera uma versão otimizada do app na pasta build. Essa pasta contém os arquivos prontos para produção, que podem ser publicados como um site estático no GitHub Pages.*
+
 ## Funcionalidades
 
  **Cadastro e Login de Usuários**  
